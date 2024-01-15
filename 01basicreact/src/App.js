@@ -1,5 +1,11 @@
+import Chai from "./Chai";
+
 function App() {
-  return <h1>hello react</h1>;
+  return (
+    <>
+      <Chai />
+    </>
+  );
 }
 
 export default App;
